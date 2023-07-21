@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">proyecto014</string>
+    <string name="ingresa_tus_notas">Ingresa tus notas</string>
+    <string name="guardar">Guardar</string>
+</resources>
